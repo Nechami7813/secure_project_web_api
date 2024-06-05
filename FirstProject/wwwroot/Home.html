@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>home page</title>
+    <script src="/Home.js"></script>
+    <link href="/Home.css" rel="stylesheet" />
+</head>
+<body dir="rtl">
+    <div id="sighn in" class="card">
+        <label>להרשמה</label><br />
+        <input id="email" placeholder="הכנס אימייל" /><br /><br />
+        <input id="password" placeholder="הכנס סיסמה" oninput="CheckPassword()" /><br /><br />
+        <input id="firstName" placeholder="הכנס שם פרטי " /><br /><br />
+        <input id="lastName" placeholder="הכנס משפחה" /><br /><br />
+        <input id="passwordCheck" /><br /><br />
+        <button onclick="RegisterFunc()">לחץ להרשמה</button><br /><br />
+        <!-- <button onclick="CheckPassword()">בדוק סיסמא</button><br /><br />-->
+    </div>
+    <div id="login" class="card">
+        <label>לכניסה</label><br /><br />
+        <input id="loginEmail" placeholder="הכנס אימייל" /><br /><br />
+        <input id="loginPassword" placeholder="הכנס סיסמה" /><br /><br />
+        <button onclick="LoginFunc()">לחץ לכניסה</button><br /><br />
+    </div>
+</body>
+
+</html>

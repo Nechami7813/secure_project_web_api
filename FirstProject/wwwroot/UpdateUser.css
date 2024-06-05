@@ -1,0 +1,52 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Light Blue */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 20px; /* Increasing font size */
+}
+
+.card {
+    background-color: #f0f0f0; /* Light Grey */
+    padding: 30px; /* Increasing padding */
+    border-radius: 15px; /* Increasing border radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+label {
+    font-weight: bold;
+    font-size: 22px; /* Increasing font size */
+}
+
+input {
+    width: 90%;
+    padding: 10px; /* Increasing padding */
+    margin: 10px 0; /* Increasing margin */
+    box-sizing: border-box;
+    border: 2px solid #ccc; /* Increasing border thickness */
+    border-radius: 8px; /* Increasing border radius */
+}
+
+button {
+    width: 90%;
+    padding: 12px; /* Increasing padding */
+    margin-top: 15px;
+    background-color: lightcoral;
+    color: white;
+    border: none;
+    border-radius: 8px; /* Increasing border radius */
+    cursor: pointer;
+    font-size: 22px; /* Increasing font size */
+}
+
+    button:hover {
+        background-color: lightpink;
+    }
+
+#update {
+    margin-bottom: 20px;
+}

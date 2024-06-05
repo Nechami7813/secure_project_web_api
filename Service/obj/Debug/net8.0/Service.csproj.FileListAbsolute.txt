@@ -1,0 +1,71 @@
+M:\Web api\FirstProject\Service\bin\Debug\net8.0\Service.deps.json
+M:\Web api\FirstProject\Service\bin\Debug\net8.0\Service.dll
+M:\Web api\FirstProject\Service\bin\Debug\net8.0\Service.pdb
+M:\Web api\FirstProject\Service\bin\Debug\net8.0\Entities.dll
+M:\Web api\FirstProject\Service\bin\Debug\net8.0\Repository.dll
+M:\Web api\FirstProject\Service\bin\Debug\net8.0\Repository.pdb
+M:\Web api\FirstProject\Service\bin\Debug\net8.0\Entities.pdb
+M:\Web api\FirstProject\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+M:\Web api\FirstProject\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web api\FirstProject\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+M:\Web api\FirstProject\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+M:\Web api\FirstProject\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+M:\Web api\FirstProject\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+M:\Web api\FirstProject\Service\obj\Debug\net8.0\Service.dll
+M:\Web api\FirstProject\Service\obj\Debug\net8.0\refint\Service.dll
+M:\Web api\FirstProject\Service\obj\Debug\net8.0\Service.pdb
+M:\Web api\FirstProject\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\326075108\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\326075108\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Service.dll
+C:\Users\326075108\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\326075108\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Entities.dll
+C:\Users\326075108\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\326075108\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\326075108\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Entities.pdb
+C:\Users\326075108\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\326075108\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326075108\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\326075108\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\326075108\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\326075108\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.sourcelink.json
+C:\Users\326075108\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+C:\Users\326075108\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.dll
+C:\Users\326075108\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\326075108\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\326075108\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\325928810\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\325928810\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Service.dll
+C:\Users\325928810\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\325928810\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Entities.dll
+C:\Users\325928810\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\325928810\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\325928810\Desktop\web_api_project_2024\Service\bin\Debug\net8.0\Entities.pdb
+C:\Users\325928810\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\325928810\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325928810\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\325928810\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\325928810\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\325928810\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.sourcelink.json
+C:\Users\325928810\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+C:\Users\325928810\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.dll
+C:\Users\325928810\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\325928810\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\325928810\Desktop\web_api_project_2024\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\326075108\Downloads\web_api_project_2024\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\326075108\Downloads\web_api_project_2024\Service\bin\Debug\net8.0\Service.dll
+C:\Users\326075108\Downloads\web_api_project_2024\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\326075108\Downloads\web_api_project_2024\Service\bin\Debug\net8.0\Entities.dll
+C:\Users\326075108\Downloads\web_api_project_2024\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\326075108\Downloads\web_api_project_2024\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\326075108\Downloads\web_api_project_2024\Service\bin\Debug\net8.0\Entities.pdb
+C:\Users\326075108\Downloads\web_api_project_2024\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\326075108\Downloads\web_api_project_2024\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326075108\Downloads\web_api_project_2024\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\326075108\Downloads\web_api_project_2024\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\326075108\Downloads\web_api_project_2024\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\326075108\Downloads\web_api_project_2024\Service\obj\Debug\net8.0\Service.sourcelink.json
+C:\Users\326075108\Downloads\web_api_project_2024\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+C:\Users\326075108\Downloads\web_api_project_2024\Service\obj\Debug\net8.0\Service.dll
+C:\Users\326075108\Downloads\web_api_project_2024\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\326075108\Downloads\web_api_project_2024\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\326075108\Downloads\web_api_project_2024\Service\obj\Debug\net8.0\ref\Service.dll

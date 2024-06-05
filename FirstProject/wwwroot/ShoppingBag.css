@@ -1,0 +1,84 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    direction: rtl; /* Set the direction from right to left */
+}
+
+/* Keep the existing styling for other elements */
+.cart {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #40E0D0; /* Turquoise color */
+    text-decoration: none;
+}
+
+.itemsColumn {
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.availabilityColumn {
+    width: 150px;
+}
+
+.totalColumn {
+    width: 150px;
+}
+
+.image {
+    width: 100px; /* Increase the image width by 10 pixels */
+    object-fit: cover;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: lightcoral; /* Light Coral background */
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px; /* Increasing border radius */
+}
+
+    button:hover {
+        background-color: lightpink; /* Light Pink on hover */
+    }
+
+/* General Button Styles */
+.button-style {
+    background-color: lightcoral; /* Light Coral background */
+    color: #ffffff; /* White text color */
+    padding: 10px 20px; /* Padding for the buttons */
+    text-decoration: none; /* Remove underline */
+    border-radius: 8px; /* Rounded corners */
+    display: inline-block; /* Make the link behave like a button */
+    margin: 5px 0; /* Margin for spacing */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+}
+
+    .button-style:hover {
+        background-color: lightpink; /* Light Pink on hover */
+        color: #ffffff; /* Ensure white text color on hover as well */
+    }

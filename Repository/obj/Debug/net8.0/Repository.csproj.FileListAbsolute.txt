@@ -1,0 +1,71 @@
+M:\Web api\FirstProject\Repository\bin\Debug\net8.0\Repository.deps.json
+M:\Web api\FirstProject\Repository\bin\Debug\net8.0\Repository.dll
+M:\Web api\FirstProject\Repository\bin\Debug\net8.0\Repository.pdb
+M:\Web api\FirstProject\Repository\bin\Debug\net8.0\Entities.dll
+M:\Web api\FirstProject\Repository\bin\Debug\net8.0\Entities.pdb
+M:\Web api\FirstProject\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+M:\Web api\FirstProject\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web api\FirstProject\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+M:\Web api\FirstProject\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+M:\Web api\FirstProject\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+M:\Web api\FirstProject\Repository\obj\Debug\net8.0\Repository.csproj.CopyComplete
+M:\Web api\FirstProject\Repository\obj\Debug\net8.0\Repository.dll
+M:\Web api\FirstProject\Repository\obj\Debug\net8.0\refint\Repository.dll
+M:\Web api\FirstProject\Repository\obj\Debug\net8.0\Repository.pdb
+M:\Web api\FirstProject\Repository\obj\Debug\net8.0\ref\Repository.dll
+M:\Web api\FirstProject\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+M:\Web api\FirstProject\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\bin\Debug\net8.0\Entities.dll
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\bin\Debug\net8.0\Entities.pdb
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.csproj.CopyComplete
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\326075108\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\bin\Debug\net8.0\Entities.dll
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\bin\Debug\net8.0\Entities.pdb
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.csproj.CopyComplete
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\325928810\Desktop\web_api_project_2024\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\bin\Debug\net8.0\Entities.dll
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\bin\Debug\net8.0\Entities.pdb
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.csproj.CopyComplete
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\326075108\Downloads\web_api_project_2024\Repository\obj\Debug\net8.0\ref\Repository.dll
