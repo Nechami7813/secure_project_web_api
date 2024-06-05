@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/V8CQNsXnZatNSgcgtJZfcKM6lDPyaj5/K+R8Idk/2FYWZdSEsWfwYLz7kou5NvEz2RCy3RzkuoLCnqHd36oCQ==",
+  "dgSpecHash": "wndkeScMH6boiKveDwMVEgXHSAvM90EBWpRfxEEoP540U3jimJCgiyoFgMGK+iE6Lsfl3m6N2NVm05vH9Vi8Xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Testing\\Testing.csproj",
+  "projectFilePath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Testing\\Testing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\326075108\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\326075108\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

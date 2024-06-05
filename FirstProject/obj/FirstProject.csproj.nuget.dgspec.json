@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\FirstProject.csproj": {}
+    "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\FirstProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\DTOs\\DTOs.csproj": {
+    "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\DTOs\\DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\DTOs\\DTOs.csproj",
+        "projectUniqueName": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\DTOs\\DTOs.csproj",
         "projectName": "DTOs",
-        "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\DTOs\\DTOs.csproj",
+        "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\DTOs\\DTOs.csproj",
         "packagesPath": "C:\\Users\\326075108\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\DTOs\\obj\\",
+        "outputPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Entities\\Entities.csproj"
+              "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Entities\\Entities.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Entities\\Entities.csproj": {
+    "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\326075108\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\FirstProject.csproj": {
+    "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\FirstProject.csproj",
+        "projectUniqueName": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\FirstProject.csproj",
         "projectName": "FirstProject",
-        "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\FirstProject.csproj",
+        "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\326075108\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\obj\\",
+        "outputPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,20 +154,20 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\DTOs\\DTOs.csproj": {
-                "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\DTOs\\DTOs.csproj"
+              "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\DTOs\\DTOs.csproj": {
+                "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\DTOs\\DTOs.csproj"
               },
-              "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Entities\\Entities.csproj"
+              "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Repository\\Repository.csproj"
+              "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Repository\\Repository.csproj"
               },
-              "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Service\\Service.csproj"
+              "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Service\\Service.csproj"
               },
-              "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Testing\\Testing.csproj": {
-                "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Testing\\Testing.csproj"
+              "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Testing\\Testing.csproj": {
+                "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Testing\\Testing.csproj"
               }
             }
           }
@@ -244,14 +244,14 @@
         }
       }
     },
-    "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Repository\\Repository.csproj": {
+    "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\326075108\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -272,8 +272,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Entities\\Entities.csproj"
+              "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Entities\\Entities.csproj"
               }
             }
           }
@@ -319,14 +319,14 @@
         }
       }
     },
-    "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Service\\Service.csproj": {
+    "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\326075108\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Service\\obj\\",
+        "outputPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -347,8 +347,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Repository\\Repository.csproj"
+              "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Repository\\Repository.csproj"
               }
             }
           }
@@ -388,14 +388,14 @@
         }
       }
     },
-    "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Testing\\Testing.csproj": {
+    "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Testing\\Testing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Testing\\Testing.csproj",
+        "projectUniqueName": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Testing\\Testing.csproj",
         "projectName": "Testing",
-        "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Testing\\Testing.csproj",
+        "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Testing\\Testing.csproj",
         "packagesPath": "C:\\Users\\326075108\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Testing\\obj\\",
+        "outputPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Testing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -416,11 +416,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Entities\\Entities.csproj"
+              "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\Repository\\Repository.csproj"
+              "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\Repository\\Repository.csproj"
               }
             }
           }

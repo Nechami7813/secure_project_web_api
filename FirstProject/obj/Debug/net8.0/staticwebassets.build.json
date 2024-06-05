@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o1XmRmwI0aftirp4QL0pRvbhynzM4p7dbxz0mh5xdy4=",
+  "Hash": "w9q6WRQGAfUpH7LWngs4dLjWZVtDO+puZNwcN1Y825k=",
   "Source": "FirstProject",
   "BasePath": "_content/FirstProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FirstProject\\wwwroot",
       "Source": "FirstProject",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\BagActive.png",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\BagActive.png",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "BagActive.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\BagActive.png"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\Home.css",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\Home.css",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "Home.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\Home.css"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\Home.html",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\Home.html",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "Home.html",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Home.html"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\Home.js",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\Home.js",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "Home.js",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Home.js"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\icn-remove.png",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\icn-remove.png",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "icn-remove.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\icn-remove.png"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\1.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\1.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/1.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\10.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\10.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/10.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\10.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\11.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\11.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/11.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\11.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\12.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\12.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/12.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\12.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\13.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\13.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/13.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\13.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\14.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\14.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/14.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\14.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\15.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\15.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/15.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\15.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\16.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\16.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/16.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\16.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\17.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\17.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/17.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\17.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\18.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\18.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/18.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\18.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\19.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\19.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/19.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\19.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\2.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\2.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/2.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\20.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\20.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/20.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\20.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\21.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\21.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/21.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\21.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\22.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\22.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/22.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\22.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\23.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\23.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/23.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\23.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\24.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\24.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/24.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\24.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\25.JPG",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\25.JPG",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/25.JPG",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\25.JPG"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\26.JPG",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\26.JPG",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/26.JPG",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\26.JPG"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\3.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\3.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/3.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\6.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\6.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/6.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\8.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\8.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/8.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\8.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\9.jpg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\9.jpg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/9.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\9.jpg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\images\\Thumbs.db",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\images\\Thumbs.db",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "images/Thumbs.db",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\Products.css",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\Products.css",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "Products.css",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\Products.css"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\Products.html",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\Products.html",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "Products.html",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\Products.html"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\Products.js",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\Products.js",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "Products.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\Products.js"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\README.md",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\README.md",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "README.md",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\README.md"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\searchIcon.svg",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\searchIcon.svg",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "searchIcon.svg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\searchIcon.svg"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\ShoppingBag.css",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\ShoppingBag.css",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "ShoppingBag.css",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\ShoppingBag.css"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\ShoppingBag.html",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\ShoppingBag.html",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "ShoppingBag.html",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\ShoppingBag.html"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\ShoppingBg.js",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\ShoppingBg.js",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "ShoppingBg.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\ShoppingBg.js"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\UpdateUser.css",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\UpdateUser.css",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "UpdateUser.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\UpdateUser.css"
     },
     {
-      "Identity": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\UpdateUser.html",
+      "Identity": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\UpdateUser.html",
       "SourceId": "FirstProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\wwwroot\\",
       "BasePath": "_content/FirstProject",
       "RelativePath": "UpdateUser.html",
       "AssetKind": "All",

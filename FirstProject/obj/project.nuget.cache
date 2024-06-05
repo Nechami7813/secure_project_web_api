@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bqvnDVIeOHjSdTcVflkNy+B+hiKZVZm9ZuHvmX18rR6VBrntTgq1YKiJqwE4q/AV50+7tSYiiOJRCKevhm5HwQ==",
+  "dgSpecHash": "KwR7zGP0++hWZqmAQMioNjwU8Vo8voMak/PuxAbnksIx0FB+n7MnB+y+ggWyBPyhH9PeCAWP+/B3DiIO+d2t7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\326075108\\Downloads\\web_api_project_2024\\FirstProject\\FirstProject.csproj",
+  "projectFilePath": "C:\\Users\\326075108\\Desktop\\secure_project_web_api\\FirstProject\\FirstProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\326075108\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\326075108\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
